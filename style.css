@@ -1,5 +1,6 @@
 body {
     background-color: #f985b9 ;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
 }
 
 h1 {
@@ -7,7 +8,7 @@ h1 {
 }
 
 #container {
-    background-color: #85f9d8;
+    background-color: #f985b9;
     width: 800px;
     margin-left: auto;
     margin-right: auto;
@@ -17,8 +18,7 @@ h1 {
     background-color: #85f9d8 ;
     color: white;
     text-align: center;
-
-
+    padding: 10px;
 }
 
 #content {
@@ -46,4 +46,8 @@ float: left;
 
 #footer {
     clear: both;
+    padding: 10px;
+    background-color: #85f9d8;
+    color: white;
+    text-align: right;
 }
